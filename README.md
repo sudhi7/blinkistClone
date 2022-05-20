@@ -1,6 +1,8 @@
 # blinkistClone
 Blinkist Application Clone using React
 
+#### - This application uses React, typescript, material UI
+
 ## Running the application
 
 step 1 - Install JSON Server 
