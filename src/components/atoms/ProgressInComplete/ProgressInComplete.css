@@ -1,0 +1,13 @@
+.inner {
+  height: 12px;
+  width: 40%;
+  background-color: #e1ecfc;
+}
+
+.ProgressBar {
+  height: 12px;
+  width: 330px;
+  background-color: #f1f6f4;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
